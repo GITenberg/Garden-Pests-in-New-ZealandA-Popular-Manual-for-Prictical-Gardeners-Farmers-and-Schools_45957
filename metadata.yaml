@@ -1,0 +1,31 @@
+_repo: Garden-Pests-in-New-ZealandA-Popular-Manual-for-Prictical-Gardeners-Farmers-and-Schools_45957
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45957-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Miller, David
+    alias: Miller, D. (David)
+    birthdate: 1890
+    deathdate: 1973
+    gutenberg_agent_id: '43542'
+    url: http://www.gutenberg.org/2009/agents/43542
+description: ''
+gutenberg_issued: '2014-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45957'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Insects -- New Zealand'
+- !lcsh 'Agricultural pests'
+- !lcsh 'Insect pests'
+- !lcc 'SB'
+- !lcsh 'Beneficial insects'
+title: "Garden Pests in New Zealand\r\nA Popular Manual for Practical Gardeners, Farmers\
+  \ and Schools"
+url: http://www.gutenberg.org/ebooks/45957
