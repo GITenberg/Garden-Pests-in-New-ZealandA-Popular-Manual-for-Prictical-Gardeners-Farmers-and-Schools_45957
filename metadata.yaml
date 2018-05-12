@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43542'
     url: http://www.gutenberg.org/2009/agents/43542
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45957#Garden-Pests-in-New-ZealandA-Popular-Manual-for-Prictical-Gardeners-Farmers-and-Schools
 gutenberg_issued: '2014-06-13'
 gutenberg_type: Text
 identifiers:
